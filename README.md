@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjith-kizhisseri
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning flutter
+- 👀 Interested in mobile application development
+
 
 
 <!---
